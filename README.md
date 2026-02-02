@@ -105,14 +105,15 @@ Using Power Query, additional data preparation steps were performed:
 ### Home Dashboard
 This dashboard provides a high-level overview of key KPIs and overall sales trends.
 
-![Home Dashboard](Home Dashboard.png)
+![Home Dashboard](screenshots/Home_Dashboard.png)
 
 ---
 
 ### Best & Worst Sellers Dashboard
-This dashboard focuses on product-level performance, highlighting the best-performing and least-performing pizzas.
+This dashboard highlights top-performing and underperforming pizza items.
 
-![Best & Worst Sellers Dashboard](Best-Worst Sellers Dashboard.png)
+![Best & Worst Sellers Dashboard](screenshots/Best-Worst_Sellers_Dashboard.png)
+
 
 ---
 
